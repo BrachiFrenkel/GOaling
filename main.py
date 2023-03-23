@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 from database import Database
 from algorithm import ShortestPathFinder
-import webbrowser
+import webbrowser   
 
 
 class App:
